@@ -22,6 +22,17 @@ The **Bionic Arm** is an automated, electromyography (EMG)-controlled robotic li
 - To explore the integration of EMG technology in robotics for precise and responsive control.
 - To advance the field of prosthetics through innovative design and engineering techniques.
 
+## Media
+![Fist](Fist.JPEG)
+![Fist](Open.JPEG)
+![Thumb with one finger closed](One_Thumb_One_Finger_Closed.JPEG)
+![Thumb with two fingers closed](THumb_Two_Fingers_Closed.JPEG)
+![Thumb with one finger open](Thumb_One_Finger_Open.JPEG)
+![Fist GIF](Closed.gif)
+![Tripod 1 Grip](Tripod%201.gif)
+![Tripod 2 Grip](Tripod%202.gif)
+
+
 ## Installation & Usage
 
 NA
